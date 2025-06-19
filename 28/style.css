@@ -1,0 +1,94 @@
+body{margin: 0;}
+
+header{background-color: #15033e;
+     color: #fff;
+     padding: 20px;
+    position: fixed; top: 0;
+    width: 100%;       
+    display: flex;
+    z-index: 2;}
+
+header ul{list-style: none;
+          display: flex;
+          padding: 0;
+          margin: 0;}
+
+header a{text-decoration: none;
+         margin-right: 15px;
+         border-radius: 6px;
+         padding: 20px;
+         padding-top: 10px;
+         padding-bottom: 6px;
+         color: white}
+
+header a:hover{background-color: #5858ae;}
+
+.ni{padding: 0 30px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;}
+
+.san{border-bottom: 1px solid #333;
+     width: 400px;}
+
+.yon{margin-left: 100px;
+     margin-right: 100px;
+     background-color: #fff;
+     padding-top: 50px;
+     padding-bottom: 230px;
+     position: relative;
+     z-index: 1;}
+
+.hati{margin-top: 70px;
+      margin-bottom: 30px;}
+
+.go{border-left: 6px solid #3ed0ce;
+    font-size: 3.4rem;
+    padding-left: 12px;}
+
+.roku{position: fixed;
+      top: 50px;
+      right: 0px;
+      left: 0px;
+      width: 100%;
+      z-index: 0;}
+
+.nana{height: 400px;
+      padding: 20px;
+      box-sizing: border-box;
+      display: flex;
+      justify-content: space-between;}
+
+.jyuu{height: 350px;
+      width: 350px;
+      padding: 20px;
+      box-sizing: border-box;}
+
+.jyuuiti{height: 400px;
+        width: 700px;
+        padding: 20px;
+        box-sizing: border-box;}
+
+.jyuuni{padding: 20px;
+      box-sizing: border-box;
+      display: flex;
+      justify-content: space-between;}
+
+.jyuusan{padding: 20px;
+         display: flex;
+         justify-content: flex-end;}
+
+.jyuuyon{height: 400px;
+        width: 600px;
+        padding: 20px;
+        box-sizing: border-box;}
+
+.jyuugo{height: 550px;
+        width: 550px;
+        padding: 20px;
+        box-sizing: border-box;}
+
+
+
+
+
